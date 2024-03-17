@@ -1,0 +1,13 @@
+*.o.cmd
+*.mod.o.cmd
+.tmp_versions
+modules.order
+eeclass*
+*.sh~
+*.mod.c
+*.symvers
+*.ko.cmd
+*.mod.o
+*.o
+*.ko
+*~
